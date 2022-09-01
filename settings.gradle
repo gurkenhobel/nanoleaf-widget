@@ -1,0 +1,2 @@
+rootProject.name = "Nanoleaf Widget"
+include ':app'
